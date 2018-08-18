@@ -1,0 +1,8 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = https://github.com/darkcode357/chos_xcodeV1-wallpaper.git
+	fetch = +refs/*:refs/*
+	mirror = true
