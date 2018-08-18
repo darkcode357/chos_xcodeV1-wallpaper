@@ -1,12 +1,0 @@
---2018-08-18 01:40:03--  https://www.google.com/url?sa=i
-Loaded CA certificate '/etc/ssl/certs/ca-certificates.crt'
-Resolving www.google.com (www.google.com)... 172.217.29.196
-Connecting to www.google.com (www.google.com)|172.217.29.196|:443... connected.
-HTTP request sent, awaiting response... 200 OK
-Length: unspecified [text/html]
-Saving to: ‘url?sa=i’
-
-url?sa=i                                            [<=>                                                                                                   ]       0  --.-KB/s               url?sa=i                                            [ <=>                                                                                                  ]   1.31K  --.-KB/s    in 0s      
-
-2018-08-18 01:40:04 (14.2 MB/s) - ‘url?sa=i’ saved [1341]
-
